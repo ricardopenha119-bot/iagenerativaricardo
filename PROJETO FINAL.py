@@ -146,5 +146,3 @@ if meu_token:
             
         # Guarda a resposta na memória
         st.session_state["historico_chat"].append({"role": "assistant", "content": texto_ia})
-PROJETO-FINAL.py
-Exibindo dados_producao.csv…
